@@ -15,3 +15,5 @@
 
 TestERC20 contract address ="0x65261fD5ca8fcc250403564724200F8e41929A9b"
 TokenSlab contract address ="0xB9208232265eE4b64f44c09Cfc547961EAC3c73c"
+
+contract deployed to goerli testnet.
